@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding: 60;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 72px;
+    background: linear-gradient(30deg, rgba(255,77,0,0.09576330532212884) 0%, rgba(255,77,0,0.8156512605042017) 30%, rgba(235,1,255,1) 54%);
+}
+
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+a:hover,
+a:active,
+a{
+    text-align: center;
+    font-size: 40px;
+}
